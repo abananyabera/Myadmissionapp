@@ -20,13 +20,4 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
-    <Button
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:padding="20sp"
-        android:background="@drawable/button_rounded"
-        android:text="PROCEED"
-        android:textSize="25sp"
-        tools:layout_editor_absoluteX="-26dp"
-        tools:layout_editor_absoluteY="659dp" />
 </android.support.constraint.ConstraintLayout>
